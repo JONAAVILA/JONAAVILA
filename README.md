@@ -1,9 +1,6 @@
 ## Hi there 👋
+![fondo](https://github.com/JONAAVILA/JONAAVILA/assets/121068399/d4e5a46a-7d38-4cc5-b255-29b9bbf84690)
 
-<!--
-**JONAAVILA/JONAAVILA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
