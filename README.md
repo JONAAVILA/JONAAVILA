@@ -1,7 +1,8 @@
-<h2 align="center" >Hi there 👋</h2> 
-<h1 align="center" >Web Developer here!</h1>
+<h2 align="center" >Hi there 👋 Web Developer here! 🤓🤟 </h2> 
+<h1 align="center" >I'm Jonatan Avila</h1>
 
-![fondo](https://github.com/JONAAVILA/JONAAVILA/assets/121068399/d4e5a46a-7d38-4cc5-b255-29b9bbf84690)
+![fondo](https://github.com/JONAAVILA/JONAAVILA/assets/121068399/a03cace5-f983-4d05-875a-ee849990a057)
+
 
 
 - 🔭 I’m currently working on ...
