@@ -1,6 +1,13 @@
 <h2 align="center" >Hi there 👋 Web Developer here! 🤓🤟🇦🇷 </h2> 
 
 ![fondo](https://github.com/JONAAVILA/JONAAVILA/assets/121068399/29bb84f5-c4b6-4261-ac9b-2c3625b9f474)
+[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://es.fiverr.com/jonathanavil986)
+[![Fiverr](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0185bd2cf36d6979aa)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-avila-1b1931238/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonatanavila.webdesign/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076196590778)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/antkm3)
+
 
 <br/>
 
